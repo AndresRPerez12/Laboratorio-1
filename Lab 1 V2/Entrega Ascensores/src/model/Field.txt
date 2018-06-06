@@ -1,0 +1,42 @@
+Elevators
+# first street, first avenue, num streets, num avenues showing 
+-1 -1 15 15
+# intersection size (in pixels) 
+38
+# things
+
+# wall
+   becker.robots.Wall 9 0 Direction.SOUTH
+   becker.robots.Wall 9 1 Direction.SOUTH
+   becker.robots.Wall 9 2 Direction.SOUTH
+   becker.robots.Wall 9 3 Direction.SOUTH
+   becker.robots.Wall 9 4 Direction.SOUTH
+   becker.robots.Wall 9 5 Direction.SOUTH
+   becker.robots.Wall 9 6 Direction.SOUTH
+   becker.robots.Wall 9 7 Direction.SOUTH
+   becker.robots.Wall 9 8 Direction.SOUTH
+   becker.robots.Wall 9 9 Direction.SOUTH
+   becker.robots.Wall 9 10 Direction.SOUTH
+   becker.robots.Wall 9 11 Direction.SOUTH
+   becker.robots.Wall 0 0 Direction.NORTH
+   becker.robots.Wall 0 1 Direction.NORTH
+   becker.robots.Wall 0 2 Direction.NORTH
+   becker.robots.Wall 0 3 Direction.NORTH
+   becker.robots.Wall 0 4 Direction.NORTH
+   becker.robots.Wall 0 5 Direction.NORTH
+   becker.robots.Wall 0 6 Direction.NORTH
+   becker.robots.Wall 0 7 Direction.NORTH
+   becker.robots.Wall 0 8 Direction.NORTH
+   becker.robots.Wall 0 9 Direction.NORTH
+   becker.robots.Wall 0 10 Direction.NORTH
+   becker.robots.Wall 0 11 Direction.NORTH
+   becker.robots.Wall 9 0 Direction.WEST
+   becker.robots.Wall 8 0 Direction.WEST
+   becker.robots.Wall 7 0 Direction.WEST
+   becker.robots.Wall 6 0 Direction.WEST
+   becker.robots.Wall 5 0 Direction.WEST
+   becker.robots.Wall 4 0 Direction.WEST
+   becker.robots.Wall 3 0 Direction.WEST
+   becker.robots.Wall 2 0 Direction.WEST
+   becker.robots.Wall 1 0 Direction.WEST
+   becker.robots.Wall 0 0 Direction.WEST
